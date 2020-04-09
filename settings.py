@@ -10,12 +10,14 @@ config = { "path":"/path/to/your/videos",
            "licence":7, 
            "language":"en",
            "privacy":1, #1 = public and 2 = private
-           "mature_content":False, #If your videos are NSFW, change this to True
+           "nsfw":False, #If your videos are NSFW, change this to True
            "commentsEnabled":True,
-           "exclude_list":["/exclude/file","/exclude/folder"]
+           "downloadEnabled":True,
+           "exclude_list":["/exclude/folder","/exclude/"],
+           "support":"If you like our service, drop some satoshis here"
          }
 
-file_extensions = [".flv",".mp4",".wmv",".webm",".mkv",".3gpp",".mov",".asf",".mpeg"]
+custom_tags = ["set","your","own","tags"] #function "search_custom_tags_in_title" searches these tags in video titles and sets them on hit
 
 #licence - english
 # 1 = Attribution
