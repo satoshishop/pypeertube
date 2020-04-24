@@ -17,7 +17,7 @@ config = { "path":"/path/to/your/videos",
            "support":"If you like our service, drop some satoshis here"
          }
 
-custom_tags = ["set","your","own","tags"] #function "search_custom_tags_in_title" searches these tags in video titles and sets them on hit
+custom_tags = ["set","your","own","tags"] #function "add_custom_tags" searches these tags in video titles and sets them on hit
 
 #licence - english
 # 1 = Attribution
