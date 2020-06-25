@@ -43,4 +43,4 @@ Mario Kuschel - gitlab@mariokuschel.info
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Support
-Feel free to support my work :) Bitcoin tipping via the lightning network - https://btcpay.satoshishop.de/apps/2MAnGZcejnZd3wV8V2YJxDWgAVPq/pos
+Feel free to support my work by dropping some satoshis (Bitcoin) here: **3Aj7QF2DJd49vDpYU6AhZqz8qWKcedpj4z**
